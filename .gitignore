@@ -1,0 +1,14 @@
+log/
+admin.conf
+adminch.conf
+allow.conf
+channelList.conf
+dbsettings.conf
+owner.conf
+razgriz.txt
+road.txt
+run_script.pid
+sakko.txt
+sot.txt
+trash.txt
+.idea/
